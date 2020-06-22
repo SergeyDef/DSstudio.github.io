@@ -1,0 +1,232 @@
+#menu_sandwich{
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	height: auto;
+}
+#menu_sandwich span{
+	width: 100%;
+	height: 8px;
+	margin: 5px 0;
+	background-color: #021367;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.writeMe{
+	display: none;
+}
+.conta{
+	width: 100%;
+	height: auto;
+}
+.conta_form{
+	width: 100%;
+	height: auto;
+}
+.whyWeh{
+	flex-direction: column;
+}
+.col{
+	justify-content: space-between;
+	width: 90%;
+}
+.whatYouNeed p{
+	padding: 0 15px;
+}
+.modal_form form {
+    width: 40%;
+}
+.elem_text{
+	color: #ffffff;
+	font-size: 20px;
+}
+#hidden_menu{
+	display: block;
+	float: left;
+	margin-top: 5px;
+	text-align: center;
+	width: 30%;
+}
+#hidden_menu img{
+	cursor: pointer;
+}
+.our_phone{
+	display: none;
+}
+#coll{
+	display: none;
+}
+.contactUs{
+	display: none;
+}
+.dial{
+	display: none;
+}
+.logo_img{
+	width: 200px;
+	height: auto;
+}
+.point{
+	display: none;
+	float: none;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+.point a{
+	margin: 2%;
+	padding: 0;
+}
+.point a:hover{
+	color: #021367;
+	background-color: #f0ffff;
+}
+.net_work{
+	margin: auto;
+}
+.whyWe h3{
+	font-size: 30px;
+}
+h1{
+	font-size: 28px;
+}
+h2, h3, h4, h5{
+	font-size: 26px;
+}
+.guarantees{
+	font-size: 18px;
+}
+#hidden_menu img{
+	cursor: pointer;
+}
+.hid_men{
+	float: left;
+}
+#hidden_menu_sandwich{
+	width: 40px;
+	height: auto;
+}
+.net_work{
+	width: 140px;
+	height: auto;
+	margin: auto;
+}
+.net_work img{
+	width: 23%;
+	height: auto;
+	float: left;
+	margin: 1%;
+}
+.our_phone{
+	display: none;
+}
+#coll{
+	display: none;
+}
+.contactUs{
+	display: none;
+}
+.hed_elem{
+	width: 30%;
+	margin: 2% 0 0 0;
+}
+.hed_contact img{
+	float: right;
+}
+.dial{
+	display: none;
+}
+.hed_logo{
+	text-align: center;
+	margin: auto;
+	width: 30%;
+}
+.hed_logo img{
+	float: none;
+	width: 160px;
+	height: auto;
+}
+#hidden_menu_close{
+	width: 30px;
+	position: absolute;
+	top: 0;
+	right: 10px;
+}
+.point{
+	display: none;
+	float: none;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+.point a{
+	margin: 2%;
+	padding: 0;
+}
+.point a:hover{
+	color: #021367;
+	background-color: #f0ffff;
+}
+.imgMepFon{
+	display: none;
+}
+.job_number{
+	display: none;
+}
+.stages_right h2{
+	text-align: center;
+}
+.stages_right p{
+	text-align: left;
+}
+.stages_left h2{
+	text-align: center;
+}
+.fashionable_people{
+	display: none;
+}
+.consult{
+	width: 250px;
+	height: 40px;
+}
+.consult p{
+	font-size: 20px;
+}
+.slide{
+	display: none;
+}
+.hed_contact img{
+	height: auto;
+	width: 40px;
+	height: auto;
+}
+.cross img{
+	display: none;
+}
+.cross p{
+	font-size: 40px;
+}
+.text_min{
+	display: none;
+}
+/* синий слайдер*/
+.guarantees{
+	overflow: hidden;
+}
+
+.boast{
+	text-align: center;
+	margin: 0;
+}
+.boasting{
+	height: auto;
+}
+/* галерея */
+.central_unit{
+	flex-direction: column;
+}
+.galleria{
+	width: 88%;
+	margin: 6%;
+}
+
